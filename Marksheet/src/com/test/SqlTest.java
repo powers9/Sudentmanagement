@@ -21,7 +21,7 @@ public class SqlTest {
 			student.setRollno(21);
 			//int m=Service.add(student);//tik he na the the problem still persist eclipsre jar ko class path mein read ni kar raha tha isliye maine
 			//webinf/lib folder mein patak diya so it dosent matter here see so ab bata
-			
+			//its ok baba you can do this even when you are not looking at it.
 			
 		//	System.out.println(m);
 
